@@ -1,6 +1,7 @@
 ## Hi, I'm Silvio 👋
 
-A small window into the things I spend my time on.
+[🌐 Projects & Live Apps](https://sechs130.github.io/) ·
+[🧠 Point Cloud Thesis](https://sechs130.github.io/pointcloud-chunking-thesis/)
 
 Applied AI & ML, based in Berlin. M.Sc. Computer Science.
 I gravitate towards the unglamorous half of machine learning — getting things to
